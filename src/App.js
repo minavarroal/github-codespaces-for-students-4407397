@@ -6,15 +6,15 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          GitHub Codespaces <span className="heart">♥️</span> React :) I am here
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload me.
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://walmart.ca"
             target="_blank"
             rel="noopener noreferrer"
           >
